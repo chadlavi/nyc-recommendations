@@ -24,9 +24,15 @@ Brooklyn:
 	> My favorite pizza place in the world. Literally. They don't fuck around with a good thing. Well-executed New York brick oven pizza without a lot of fanfare. Apparently started by a Roberta's alum.
 * [Roberta's](http://robertaspizza.com), 261 Moore Street, Bushwick
 	> Something of a mecca for hipster pizza perfection. Roberta's gets really busy during popular hours, and chances are most of the other diners will be tourists. But damn if they don't do a great job. Note that Roberta's makes 30cm-ish personal-size pies, and you may experience some sticker shock. Get the garlic knots when you're there; they're basically garlicky croissants.
+* [Paulie Gee's](http://pauliegee.com), 60 Greenpoint Ave, Greenpoint
+	> Paulie Gee's is a love-hate thing. On the one hand, the pizza is fantastic. On the other hand, founder and namesake Paulie Gee is something of a notorious guy in the neighborhood. He mouths off a lot on social media whenever people complain about him, and pretty transparently runs his business in a way that benefits tourists much more than the community. For example, they used to do take out, but stopped for unclear reasons a few years ago. It's difficult to get a table unless you show up before they open at 5pm, but they don't take reservations. Basically, it's almost impossile to eat this guy's pizza on a weekday if you're a local who works normal hours. 
+	>  
+	> Anyway, end of rant. Like I said, the pizza *is* fantastic. If you go, do get the Greenpointer and the Bee Sting. This is also a 30cm personal pie place.
 
 Manhattan:
 * [Prince Street Pizza](http://princestpizzanewyork.com), 27 Prince Street, SoHo
+* [Joe's](http://www.joespizzanyc.com), 7 Carmine Street, West Village
+	> There are a lot of places in NYC that claim to be "Joe's Original," but this place is the actual one they're all pretending to be. Can tend to be swamped at usual pizza times, but it's a counter-service slice place, so it turns over pretty quickly.
 
 ### Bagels
 
