@@ -11,7 +11,7 @@ So I figured, *"why not start some sort of actual list for this?"*. And here it 
     * [Bagels](#bagels)
 	* [Dim Sum](#dim-sum)
 	* [Korean](#korean)
-* [Bars](#Bars)
+* [Bars](#bars)
 	* [Beer](#beer)
 	* [Cocktails](#cocktails)
 
