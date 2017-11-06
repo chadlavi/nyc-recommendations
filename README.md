@@ -60,9 +60,9 @@ Manhattan:
 
 Manhattan:
 * [Jongro BBQ](http://jongrobbqny.com), 22 West 32nd Street, 2nd floor, Ktown
-	> You walk up to the door and you think, *"surely I'm at the wrong address."* Don't worry, you're not. It may look like the lobby of a small-potatoes office building, but Jongro is really here, waiting for you on the second floor.
+	> You walk up to the door and you think, *"surely I'm at the wrong address."* Don't worry, you're not. It may look like the lobby of a small-potatoes office building, but Jongro is really here, waiting for you on the second floor. The interior is a sort of Korean BBQ Disneyland, with fake building façades.
 	>  
-	> The interior is a sort of Korean BBQ Disneyland, with fake building façades. If you're not sure how Korean BBQ works, read this: https://www.thrillist.com/eat/nation/korean-bbq-how-to-order-eat. It's great.
+	> If you're not sure how Korean BBQ works, read this: https://www.thrillist.com/eat/nation/korean-bbq-how-to-order-eat. It's great.
 
 ###### [back to top](#table-of-contents)
 
