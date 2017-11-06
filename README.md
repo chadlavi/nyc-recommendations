@@ -25,7 +25,9 @@ Brooklyn:
 * [Roberta's](http://robertaspizza.com), 261 Moore Street, Bushwick
 	> Something of a mecca for hipster pizza perfection. Roberta's gets really busy during popular hours, and chances are most of the other diners will be tourists. But damn if they don't do a great job. Note that Roberta's makes 30cm-ish personal-size pies, and you may experience some sticker shock. Get the garlic knots when you're there; they're basically garlicky croissants.
 * [Paulie Gee's](http://pauliegee.com), 60 Greenpoint Ave, Greenpoint
-	> Paulie Gee's is a love-hate thing. On the one hand, the pizza is fantastic. On the other hand, founder and namesake Paulie Gee is something of a notorious guy in the neighborhood. He mouths off a lot on social media whenever people complain about him, and pretty transparently runs his business in a way that benefits tourists much more than the community. For example, they used to do take out, but stopped for unclear reasons a few years ago. It's difficult to get a table unless you show up before they open at 5pm, but they don't take reservations. Basically, it's almost impossile to eat this guy's pizza on a weekday if you're a local who works normal hours. 
+	> Paulie Gee's is a love-hate thing. 
+	>  
+	> On the one hand, the pizza is fantastic. On the other hand, founder and namesake Paulie Gee is something of a notorious guy in the neighborhood. He mouths off a lot on social media whenever people complain about him, and pretty transparently runs his business in a way that benefits tourists much more than the community. For example, they used to do take out, but stopped for unclear reasons a few years ago. It's difficult to get a table unless you show up before they open at 5pm, but they don't take reservations. Basically, it's almost impossile to eat this guy's pizza on a weekday if you're a local who works normal hours. 
 	>  
 	> Anyway, end of rant. Like I said, the pizza *is* fantastic. If you go, do get the Greenpointer and the Bee Sting. This is also a 30cm personal pie place.
 
@@ -58,7 +60,9 @@ Manhattan:
 
 Manhattan:
 * [Jongro BBQ](http://jongrobbqny.com), 22 West 32nd Street, 2nd floor, Ktown
-	> You walk up to the door and you think, *"surely I'm at the wrong address."* Don't worry, you're not. It looks like the lobby of a small-potatoes office building, but Jongro is really here, on the second floor. The interior is a sort of Korean BBQ Disneyland, with fake building façades. If you're not sure how Korean BBQ works, read this: https://www.thrillist.com/eat/nation/korean-bbq-how-to-order-eat. It's great.
+	> You walk up to the door and you think, *"surely I'm at the wrong address."* Don't worry, you're not. It may look like the lobby of a small-potatoes office building, but Jongro is really here, waiting for you on the second floor.
+	>  
+	> The interior is a sort of Korean BBQ Disneyland, with fake building façades. If you're not sure how Korean BBQ works, read this: https://www.thrillist.com/eat/nation/korean-bbq-how-to-order-eat. It's great.
 
 ###### [back to top](#table-of-contents)
 
