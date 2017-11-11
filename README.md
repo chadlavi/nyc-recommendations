@@ -14,6 +14,7 @@ So I figured, *"why not start some sort of actual list for this?"*. And here it 
 * [Bars](#bars)
 	* [Beer](#beer)
 	* [Cocktails](#cocktails)
+* [Coffee](#coffee)
 
 ## Food
 
