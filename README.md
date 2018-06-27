@@ -46,9 +46,12 @@ Brooklyn:
 	> A very similar place to The Bagel Store, but somewhat less plagued by tourists. Line moves quickly.
 
 Manhattan:
+* [Absolute](https://www.yelp.com/biz/absolute-bagels-new-york), 2788 Broadway, Upper West Side
+    > Recommended by David Wertheimer
+* [Tal Bagels](https://www.talbagelsny.com), 333 East 86th St, 1228 Lexington Ave, (Upper East Side) and 357 1st Ave (Lower East Side)
+    > Recommended by David Wertheimer
 * [Black Seed Bagels](https://www.blackseedbagels.com), 176 1st Avenue, East Village
 	> High-quality Montreal-Style bagels.
-* [Barney Greengrass](https://www.barneygreengrass.com), 541 Amsterdam Avenue, Upper West Side
 * [Murray's Bagels](http://www.murraysbagels.com), 500 6th Avenue, Greenwich Village
 
 ### Dim Sum
